@@ -36,6 +36,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     if (inputController.text != "") {
                       toDoList.add(inputController.text);
                     }
+                    inputController.text = '';
                     setState(() {});
                   },
                   style: elevatedButtonStyle(),
