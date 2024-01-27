@@ -1,16 +1,16 @@
-# todoapp
+#Todo-App
 
-A new Flutter project.
+It's a Simple ToDo Application.
 
-## Getting Started
+<h1>App Preview</h1>
 
-This project is a starting point for a Flutter application.
+<table style="width:100%">
+  <tr>
+    <th>Home Screen</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/MdAshrafUllah/Todo-App-practice/assets/96839511/a4674930-c407-437d-a366-f451ed224026" width="200" height="380"></td>
+  </tr>
+</table>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h4>Thank you for visiting</h4>
